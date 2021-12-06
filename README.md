@@ -1,2 +1,2 @@
 # netflix01
- Recriando a interface do Netflix
+ Recriando a interface da Netflix
