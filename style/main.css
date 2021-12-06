@@ -39,6 +39,9 @@ header nav a {
 header nav a:hover {
   color: #fff;
 }
+header p a {
+  color: white;
+}
 
 /*filme principal*/
 .filme-principal {
@@ -80,13 +83,6 @@ header nav a:hover {
   transition: 0.3s ease all;
 }
 
-/*.texto {
-  font-family: Montserrat, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  text-decoration: none;
-  color: #aaa;
-  margin-right: 10px;
-}*/
-
 .botao:hover {
   background-color: white;
   color: black;
@@ -113,4 +109,17 @@ header nav a:hover {
 
 .carrosel-filmes {
   margin-top: 5px;
+}
+
+.Autor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #aaa;
+}
+
+.Autor p {
+  font-size: 1.1rem;
 }
